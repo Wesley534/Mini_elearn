@@ -28,7 +28,7 @@ That's it! The application will run entirely in your browser.
 ## UI Preview
 
 ### Course Listing Page
-![Course Listing](https://i.imgur.com/gKjYtUu.png)
+![Course Listing](courselisting.png)
 
 ### Course Details Page
-![Course Details](https://i.imgur.com/T0bS1mX.png)
+![Course Details](coursedetails.png)
